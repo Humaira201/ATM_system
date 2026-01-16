@@ -1,0 +1,9 @@
+{
+    "123": {
+        "name": "humaira",
+        "type": "savings",
+        "pin": "1234",
+        "balance": 500,
+        "transactions": []
+    }
+}
